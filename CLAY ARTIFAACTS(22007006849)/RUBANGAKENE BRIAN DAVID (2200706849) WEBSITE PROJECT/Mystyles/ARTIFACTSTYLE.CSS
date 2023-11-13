@@ -1,0 +1,296 @@
+/*styling the crafts HomePage*/
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-image:  url(pc18.jpg);
+  background-position: center;
+  background-size:cover;
+  background-repeat: no-repeat;
+}
+
+.TITLE{
+  display: flex;
+  align-items: center;
+  padding-left: px;
+  justify-content:space-around;
+margin: 500px;
+margin-left: 300px;
+background-color:burlywood;
+border-style: solid;
+color: green;
+border-width: 90px;
+border-radius: 700px;
+}
+.LOGO img{
+  height:1700px;
+  width:1500px;
+  margin-top: px;
+ margin-right: 200px;
+ border-style: solid;
+ color: saddlebrown;
+ border-width: 80px;
+ border-radius: 500px;
+ object-position: right;
+ }
+
+.navigate1 ul li{
+  background-color:;
+    justify-content: space-around;
+  align-items: stretch;
+  display: inline-block;
+  margin: 600px;
+}
+
+nav ul li a{
+text-decoration: none;
+background-color: white;
+border-style: solid;
+color: black;
+border-width: 30px;
+border-radius: 200px;
+color: darkslategray;
+font-size: 400px;
+margin: 1500px;
+}
+ #comment{
+  background-
+  color: lightblue;
+  height: 3000px;
+  width: 3000px;
+}
+
+ #introductionToSite{
+  background-color: white;
+  font-size: 400px;
+  text-align:center;
+  color: black;
+   margin: 45px;
+ }
+
+ #links a {
+ 	color: darkslategray;
+  font-family: monospace;
+  font-size: 400px;
+
+ }
+  #links ul li{
+    text-align: left;
+    background-color:;
+  }
+
+li a:hover {
+  background-color: lightpink;
+}
+ #audioo {
+ 	height: 100px;
+ 	width: 200px;
+
+ }
+
+ 
+#heading1{
+   color: brown;
+  font-size: 1000px;
+  margin: 350px;
+  word-spacing:300px;
+  font-family: sans-serif;
+  }
+
+  .MYVIDEO video{
+    margin-left:6000px ;
+    border-style: solid;
+    color: sandybrown;
+    border-width: 80px;
+    border-radius: 200px;
+  }
+
+
+.AddComment{
+background-color: lightblue;
+margin: 200px;
+margin-left: 5000px;
+margin-right: 5000px;
+
+}
+.SUBMIT{
+    width: 1700px;
+    height: 500px;
+    font-size: 400px;
+border-radius: 200px;
+}
+
+ .MAIN p{
+    font-size: 400px;
+    color: darkslategray;
+}
+.lowerpage{
+    background-color:;
+    font-size: 300px;
+   } 
+   .user{
+    width: 1800px;
+    height: 400px;
+    background-color: burlywood;
+    font-size: 350px;
+
+}
+#comment{
+    font-size: 300px;
+    background-color: burlywood;
+    width: 6000px;
+    height: 1500px;
+
+}
+.FOOTER{
+    color: green;
+}
+a{
+
+    text-decoration: none;
+    color:;
+    background-color:;
+    font-size: 350px;
+}
+#contactus{
+  font-size: 500px;
+  background-color: white;
+  margin-left:2000px ;
+  margin-right: 2000px;
+  color: saddlebrown;
+  border-style: solid;
+  border-width: 80px;
+  border-radius: 200px;
+}
+
+
+
+
+/*STYLING ABOUT US PAGE*/
+body{
+  font-weight: bold;
+  text-align: center;
+}
+
+   header #heading2 {
+  font-size: 800px;
+  font-family: cursive;
+ 
+  color: saddlebrown;
+}
+   p#paragraph2{
+    color: green;
+  font-size: 400px;
+  font-family: fantasy;
+  background-color: white;
+
+}
+.VALUES{
+  background-color: lightgray;
+  font-size: 400px;
+}
+ 
+ p{
+  font-size: 250px;
+  color: black;
+  font-family: fantasy;
+  padding: 0px;
+ }
+
+
+ul li.ourValues1{
+  font-size: 350px;
+  color: green;
+  font-family: fantasy;
+  padding: 0px;
+}
+ 
+ul li.ourValues2{
+  font-size: 350px;
+  color:green;
+  font-family: fantasy;
+  padding: 0px;
+}
+ul li.ourValues3{
+  font-size: 350px;
+  color:green;
+  font-family: fantasy;
+  padding: 0px;
+}
+ul li.ourValues4{
+  font-size: 350px;
+  color:green;
+  font-family: fantasy;
+  padding: 0px;
+}
+
+h2{
+  font-size: 300px;
+  color: saddlebrown;
+  background-color:burlywood;
+  margin-left: 6500px;
+  margin-right: 6500px;
+  padding: px;
+  border-radius: 500px;
+
+}
+
+#WElcome{
+  margin-left: 2000px;
+  margin-right: 2000px;
+}
+
+.lastpart{
+  margin-left: 4000px;
+  margin-right: 4000px;
+}
+ /*STYLING THE REGISTRATION FORM*/
+ body{
+  font-size: 150px;
+ }
+label #artifacttype{
+  height: 150px;
+  width: 150px;
+}
+
+/*styling the products page*/
+.IMAGE img{
+  height: 3500px;
+  width: 3500px;
+  margin: 70px;
+  align-items: stretch;
+
+}
+
+}
+.contacting{
+  background-color: burlywood;
+}
+
+.productlink ul li a{
+text-decoration: none;
+color: yellowgreen;
+font-size: 400px;
+
+}
+
+
+
+.productlink{
+   justify-content: space-around;
+  align-items:center ;
+  display: flex;
+   }
+.productlink ul li{
+    display: inline-block;
+   }
+
+
+/* styling product type pricing*/
+ .mypieces{
+            align-items: center;
+            justify-content: space-around;
+        }
+
